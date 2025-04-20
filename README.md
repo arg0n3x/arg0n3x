@@ -12,6 +12,7 @@
   <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" height="20%" width="20%">
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" height="20%" width="20%">
   <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" height="20%" width="20%">
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" height="20%" width="25%">
 </a>
 
 ### ❗ Languages ❗
