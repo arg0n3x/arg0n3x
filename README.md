@@ -3,7 +3,7 @@
    <article>
      I'm a person focused on cybersecurity, Linux systems administration, and programming.
    </article>
-   <br>
+   <br><br>
 <p><img src="https://komarev.com/ghpvc/?username=argon3x&label=Profile%20views&color=0e75b6&style=flat"></p>
 
 ### ❗ Interests ❗
