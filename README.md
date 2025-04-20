@@ -1,4 +1,4 @@
-<p align="center"><img width="100%" height="200pt" src="https://www.economiadigital.es/wp-content/uploads/2024/02/pexels-john-petalcurin-2115257-1-1000x665.jpg"></p>
+<p align="center"><img width="100%" height="200pt" style="border-radius: 10px" src="https://www.economiadigital.es/wp-content/uploads/2024/02/pexels-john-petalcurin-2115257-1-1000x665.jpg"></p>
    <br>
    <article>
      I'm a person focused on cybersecurity, Linux systems administration, and programming.
